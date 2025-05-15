@@ -77,10 +77,3 @@ app/src/main/java/com/example/todo/
 2. Open in Android Studio
 3. Run the app on an emulator or physical device
 
-## Future Improvements
-
-- Add todo creation/editing
-- Implement user authentication
-- Add todo categories/tags
-- Implement search functionality
-- Add unit tests and UI tests
